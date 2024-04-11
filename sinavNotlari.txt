@@ -1,0 +1,5 @@
+Ahmet Yılmaz-100,100,96
+Ayşe Topal-80,90,70
+Mehmet Keskin-65,65,65
+Kamil Can-15,15,90
+Zeynep Kılıç-90,90,95
