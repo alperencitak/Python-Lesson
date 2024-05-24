@@ -1,0 +1,51 @@
+[
+    {
+      "Çalışan":"Ahmet",
+      "Departman":"İnsan Kaynakları",
+      "Yaş":30,
+      "Semt": "Kadıköy",
+      "Maaş": 5000
+    },
+    {
+      "Çalışan":"Can",
+      "Departman":"Bilgi İşlem",
+      "Yaş":25,
+      "Semt": "Tuzla",
+      "Maaş": 3000
+    },
+    {
+      "Çalışan":"Hasan",
+      "Departman":"Muhasebe",
+      "Yaş":45,
+      "Semt": "Maltepe",
+      "Maaş": 4000
+    },
+    {
+      "Çalışan":"Cenk",
+      "Departman":"İnsan Kaynakları",
+      "Yaş":50,
+      "Semt": "Tuzla",
+      "Maaş": 3500
+    },
+    {
+      "Çalışan":"Ali",
+      "Departman":"Bilgi İşlem",
+      "Yaş":23,
+      "Semt": "Kadıköy",
+      "Maaş": 2750
+    },
+    {
+      "Çalışan":"Rıza",
+      "Departman":"Muhasebe",
+      "Yaş":34,
+      "Semt": "Tuzla",
+      "Maaş": 6500
+    },
+    {
+      "Çalışan":"Mustafa",
+      "Departman":"Bilgi İşlem",
+      "Yaş":42,
+      "Semt": "Maltepe",
+      "Maaş": 4500
+    }
+]
